@@ -1,5 +1,5 @@
 
-# Hi, I'm Prajwal Shetty 👋
+# Hi, I'm Prajwal Shetty
 
 ### Information Science & Engineering | AI/ML | Backend Development
 
